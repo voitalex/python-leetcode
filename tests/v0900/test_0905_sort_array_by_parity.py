@@ -12,5 +12,5 @@ from leetcode.v0900._0905_sort_array_by_parity import Solution
         ([0], [0]),
     ]
 )
-def test_two_sums(value, expected):
+def test_sort_array_by_parity(value, expected):
     assert Solution().sortArrayByParity(value) == expected

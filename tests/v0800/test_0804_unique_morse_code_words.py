@@ -12,5 +12,5 @@ from leetcode.v0800._0804_unique_morse_code_words import Solution
         (['a'], 1),
     ]
 )
-def test_two_sums(value, expected):
+def test_unique_morse_code_words(value, expected):
     assert Solution().uniqueMorseRepresentations(value) == expected
