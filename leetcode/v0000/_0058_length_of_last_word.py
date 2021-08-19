@@ -1,0 +1,35 @@
+""" 0058. Length of Last Word
+
+Link: https://leetcode.com/problems/length-of-last-word
+
+Given a string s consists of some words separated by some number of spaces, return the length of
+the last word in the string.
+
+A word is a maximal substring consisting of non-space characters only.
+
+Example 1:
+    Input: s = "Hello World"
+    Output: 5
+
+Example 2:
+    Input: s = "   fly me   to   the moon  "
+    Output: 4
+
+Example 3:
+    Input: s = "luffy is still joyboy"
+    Output: 6
+
+Constraints:
+    1 <= s.length <= 10^4
+    s consists of only English letters and spaces ' '.
+    There will be at most one word in s.
+"""
+
+
+class Solution:
+    """ Length of Last Word """
+
+    def lengthOfLastWord(self, s: str) -> int:
+        """ Решение задачи """
+
+        return len(s.strip().split(' ')[-1])
