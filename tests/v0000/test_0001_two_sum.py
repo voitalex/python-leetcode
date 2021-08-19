@@ -1,4 +1,4 @@
-""" Two Sums """
+""" 0001. Two Sums """
 
 import pytest
 from leetcode.v0000._0001_two_sum import Solution
