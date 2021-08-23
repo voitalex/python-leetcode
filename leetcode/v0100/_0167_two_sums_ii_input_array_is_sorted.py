@@ -52,3 +52,5 @@ class Solution:
                 first += 1
             else:
                 last -= 1
+
+        return []

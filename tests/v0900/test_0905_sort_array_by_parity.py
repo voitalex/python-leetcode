@@ -8,7 +8,7 @@ from leetcode.v0900._0905_sort_array_by_parity import Solution
 @pytest.mark.parametrize(
     'value, expected',
     [
-        ([3,1,2,4], [2,4,3,1]),
+        ([3, 1, 2, 4], [2, 4, 3, 1]),
         ([0], [0]),
     ]
 )
