@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "leetcode"
 version = "0.1.0"
-description = ""
+description = "Решение задач с сайта leetcode.com на Python"
 authors = ["aavojtek <aavojtek@mts.ru>"]
 
 [tool.poetry.dependencies]
