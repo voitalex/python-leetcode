@@ -1,8 +1,7 @@
 """ 0007. Reverse Integer """
 
-
 import pytest
-from leetcode.v0000._0007_reverse_integer import Solution
+from reverse_integer import Solution
 
 
 @pytest.mark.t0007
