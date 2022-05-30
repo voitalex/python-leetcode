@@ -1,7 +1,7 @@
 """ 0002. Add Two Numbers """
 
 import pytest
-from leetcode.v0000._0002_add_two_numbers import ListNode, Solution
+from add_two_numbers import ListNode, Solution
 
 
 @pytest.mark.t0002
@@ -22,7 +22,7 @@ def test_add_two_sums(first, second, expected):
     def nums_from_list(lst: ListNode):
         digits = []
         while lst:
-            digits.append(lst.val)
+            digits.append(lst.value)
             lst = lst.next
         return digits
 
