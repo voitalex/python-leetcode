@@ -60,7 +60,7 @@ class Solution:
 
     @staticmethod
     def convert_number_to_linked_list(value: int) -> ListNode:
-        """ Возвращает целочисленное значение на основе значений связанного списка """
+        """ Возвращает связанный список на основе целочисленного значения """
 
         digits = [int(ch) for ch in list(str(value))]
         result = ListNode(digits[0])
