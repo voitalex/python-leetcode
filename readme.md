@@ -5,22 +5,28 @@
 
 Каталог: 0000
 
-| Номер | Название               | Комментарий   |
-|-------|------------------------|---------------|
-| 0001  | Two Sum                | Hash Table    |
-| 0002  | Add Two Numbers        | Linked List   |
-| 0003  | Zigzag Conversion      | String        |
-| 0007  | Reverse Integer        | Math, String  |
-| 0009  | Palindrome Number      | String        |
-| 0012  | Integer to Roman       | Math          |
-| 0020  | Valid Parentheses      | Stack         |
-| 0028  | Implement strStr()     | String        |
-| 0035  | Search Insert Position | Binary Search |
-| 0058  | Length of Last Word    | String        |
-| 0061  | Rotate List            | Linked List   |
-| 0066  | Plus One               | Math          |
-| 0067  | Add Binary             | Math, String  |
-| 0069  | Sqrt(x)                | Math          |
+| Номер | Название                         | Комментарий      |
+|-------|----------------------------------|------------------|
+| 0001  | Two Sum                          | Hash Table       |
+| 0002  | Add Two Numbers                  | Linked List      |
+| 0003  | Zigzag Conversion                | String           |
+| 0005  | Longest Palindromic Substring    | String           |
+| 0007  | Reverse Integer                  | Math, String     |
+| 0008  | String to Integer                | String           | 
+| 0009  | Palindrome Number                | String           |
+| 0012  | Integer to Roman                 | Math             |
+| 0013  | Roman to Integer                 | Math             |
+| 0019  | Remove Nth Node From End of List | Linked List      |
+| 0020  | Valid Parentheses                | Stack            |
+| 0021  | Merge Two Sorted Lists           | Linked List      |
+| 0028  | Implement strStr()               | String           |
+| 0035  | Search Insert Position           | Binary Search    |
+| 0058  | Length of Last Word              | String           |
+| 0061  | Rotate List                      | Linked List      |
+| 0066  | Plus One                         | Math             |
+| 0067  | Add Binary                       | Math, String     |
+| 0069  | Sqrt(x)                          | Math             |
+| 0089  | Gray Code                        | Bit Manipulation |
 
 
 Каталог: 0100
