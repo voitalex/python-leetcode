@@ -1,7 +1,5 @@
 """ 0058. Length of Last Word
 
-Link: https://leetcode.com/problems/length-of-last-word
-
 Given a string s consists of some words separated by some number of spaces, return the length of
 the last word in the string.
 

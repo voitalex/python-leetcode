@@ -1,7 +1,5 @@
 """ 0167. Two Sums II - Input Array is Sorted
 
-Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
-
 Given an array of integers numbers that is already sorted in non-decreasing order, find two numbers such that
 they add up to a specific target number.
 

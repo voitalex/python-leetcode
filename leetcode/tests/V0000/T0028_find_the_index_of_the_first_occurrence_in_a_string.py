@@ -1,7 +1,7 @@
-""" 0028. Implement strStr() """
+""" 0028. Find the Index of the First Occurrence in a String """
 
 import pytest
-from leetcode.problems.V0000.T0028_implement_strstr import Solution
+from leetcode.problems.V0000.T0028_find_the_index_of_the_first_occurrence_in_a_string import Solution
 
 
 @pytest.mark.T0028
