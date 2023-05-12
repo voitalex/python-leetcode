@@ -1,6 +1,15 @@
 
 Список решенных задач по темам
 
+#### Array
+|                              Номер                              | Название                  | Примечание |
+|:---------------------------------------------------------------:|---------------------------|------------|
+|   [0905](https://leetcode.com/problems/sort-array-by-parity)    | Sort Array By Parity      |            |
+| [0977](https://leetcode.com/problems/squares-of-a-sorted-array) | Squares of a Sorted Array | O(n)       |
+
+
+
+
 #### Binary Search
 |                               Номер                                | Название        | Примечание |
 |:------------------------------------------------------------------:|-----------------|------------|
@@ -27,7 +36,7 @@
 |:----------------------------------------------------------------------:|----------------------------------|------------|
 |         [0002](https://leetcode.com/problems/add-two-numbers)          | Add Two Numbers                  |            |
 | [0019](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Remove Nth Node From End of List | Не сделано |
-|         [0021](https://leetcode.com/problems/add-two-numbers)          | Merge Two Sorted Lists           | Не сделано |
+|         [0021](https://leetcode.com/problems/add-two-numbers)          | Merge Two Sorted Lists           |            |
 |       [0023](https://leetcode.com/problems/merge-k-sorted-lists)       | Merge K Sorted Lists             | Не сделано |
 |       [0024](https://leetcode.com/problems/swap-nodes-in-pairs)        | Swap Nodes in Pairs              | Не сделано |
 |           [0061](https://leetcode.com/problems/rotate-list)            | Rotate List                      |            |
