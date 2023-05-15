@@ -13,5 +13,5 @@ from leetcode.problems.V1200.T1207_unique_number_of_ocurrences import Solution
         ([-3, 0, 1, -3, 1, 1, 1, -3, 10 , 0], True),
     ]
 )
-def test_unique_occurrences(value, expected):
+def test_unique_number_of_occurrences(value, expected):
     assert Solution().uniqueOccurrences(value) == expected

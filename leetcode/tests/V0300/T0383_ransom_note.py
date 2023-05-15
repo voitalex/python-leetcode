@@ -13,5 +13,5 @@ from leetcode.problems.V0300.T0383_ransom_note import Solution
         ('aa', 'aab', True),
     ]
 )
-def test_power_of_three(ransom_note, magazine, expected):
+def test_ransom_note(ransom_note, magazine, expected):
     assert Solution().canConstruct(ransom_note, magazine) == expected

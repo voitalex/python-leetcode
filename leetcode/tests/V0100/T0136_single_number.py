@@ -13,5 +13,5 @@ from leetcode.problems.V0100.T0136_single_number import Solution
         ([1], 1),
     ]
 )
-def test_solution(value, expected):
+def test_single_number(value, expected):
     assert Solution().singleNumber(value) == expected

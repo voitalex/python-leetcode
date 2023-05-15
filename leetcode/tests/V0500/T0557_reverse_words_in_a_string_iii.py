@@ -12,5 +12,5 @@ from leetcode.problems.V0500.T0557_reverse_words_in_a_string_iii import Solution
         ("God Ding", "doG gniD"),
     ]
 )
-def test_sort_array_by_parity(value, expected):
+def test_reverse_words_in_a_string(value, expected):
     assert Solution().reverseWords(value) == expected

@@ -12,5 +12,5 @@ from leetcode.problems.V0900.T0977_squares_of_a_sorted_array import Solution
         ([-7, -3, 2, 3, 11], [4, 9, 9, 49, 121]),
     ]
 )
-def test_sort_array_by_parity(value, expected):
+def test_squares_of_a_sorted_array(value, expected):
     assert Solution().sortedSquares(value) == expected

@@ -12,5 +12,5 @@ from leetcode.problems.V0300.T0338_counting_bits import Solution
         (5, [0, 1, 1, 2, 1, 2]),
     ]
 )
-def test_reverse_string(n, expected):
+def test_counting_bits(n, expected):
     assert Solution().countBits(n) == expected
