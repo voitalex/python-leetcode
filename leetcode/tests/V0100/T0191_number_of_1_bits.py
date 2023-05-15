@@ -13,5 +13,5 @@ from leetcode.problems.V0100.T0191_number_of_1_bits import Solution
         (4294967293, 31),
     ]
 )
-def test_two_sum(n, result):
+def test_number_of_1_bits(n, result):
     assert Solution().hammingWeight(n) == result
