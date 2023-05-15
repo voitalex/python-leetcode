@@ -15,5 +15,5 @@ from leetcode.problems.V0000.T0035_search_insert_position import Solution
         ([1], 0, 0),
     ]
 )
-def test_solution(numbers, target, expected):
+def test_search_insert_position(numbers, target, expected):
     assert Solution().searchInsert(numbers, target) == expected

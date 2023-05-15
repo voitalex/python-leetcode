@@ -20,7 +20,7 @@ from leetcode.problems.V0000.T0008_string_to_integer import Solution
         ('2147483648', 2147483647),
     ]
 )
-def test_reverse_integer(value, expected):
+def test_string_to_integer(value, expected):
     assert Solution().myAtoi(value) == expected
 
 

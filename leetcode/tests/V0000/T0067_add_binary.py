@@ -12,5 +12,5 @@ from leetcode.problems.V0000.T0067_add_binary import Solution
         ('1010', '1011', '10101'),
     ]
 )
-def test_plus_one(first, second, expected):
+def test_add_binary(first, second, expected):
     assert Solution().addBinary(first, second) == expected

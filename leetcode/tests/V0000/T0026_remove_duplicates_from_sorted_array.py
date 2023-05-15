@@ -13,5 +13,5 @@ from leetcode.problems.V0000.T0026_remove_duplicates_from_sorted_array import So
 
     ]
 )
-def test_valid_parentheses(value, expected):
+def test_remove_duplicates_from_sorted_array(value, expected):
     assert Solution().removeDuplicates(value) == expected

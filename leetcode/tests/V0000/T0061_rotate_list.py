@@ -22,7 +22,7 @@ from leetcode.problems.V0000.T0061_rotate_list import ListNode, Solution
         ),
     ]
 )
-def test_rotate_right(head, k, expected):
+def test_rotate_list(head, k, expected):
 
     result = Solution().rotateRight(head, k)
     while result and expected:

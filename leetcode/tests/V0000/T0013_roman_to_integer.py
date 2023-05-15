@@ -14,5 +14,5 @@ from leetcode.problems.V0000.T0013_roman_to_integer import Solution
         ('MCMXCIV', 1994),
     ]
 )
-def test_integer_to_roman(value, expected):
+def test_roman_to_integer(value, expected):
     assert Solution().romanToInt(value) == expected

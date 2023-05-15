@@ -13,5 +13,5 @@ from leetcode.problems.V0000.T0028_find_the_index_of_the_first_occurrence_in_a_s
         ('', '', 0),
     ]
 )
-def test_valid_parentheses(needle, haystack, expected):
+def test_find_the_index_of_the_first_occurrence_in_a_string(needle, haystack, expected):
     assert Solution().strStr(needle, haystack) == expected

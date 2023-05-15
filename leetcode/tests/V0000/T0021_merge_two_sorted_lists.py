@@ -17,7 +17,7 @@ from leetcode.problems.V0000.T0021_merge_two_sorted_lists import ListNode, Solut
         ),
     ]
 )
-def test_valid_parentheses(l1, l2, expected):
+def test_merge_two_sorted_lists(l1, l2, expected):
 
     result = Solution().mergeTwoLists(l1, l2)
     while result and expected:
