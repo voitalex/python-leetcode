@@ -38,6 +38,7 @@
 |       [0023](https://leetcode.com/problems/merge-k-sorted-lists)       | Merge K Sorted Lists             | Hard      | Не сделано |
 |       [0024](https://leetcode.com/problems/swap-nodes-in-pairs)        | Swap Nodes in Pairs              | Medium    | Не сделано |
 |           [0061](https://leetcode.com/problems/rotate-list)            | Rotate List                      | Medium    |            |
+|      [0092](https://leetcode.com/problems/reverse-linked-list-ii)      | Reverse Linked List II           | Medium    |            |
 |       [0206](https://leetcode.com/problems/reverse-linked-list)        | Reverse Linked List              | Easy      |            |
 
 
