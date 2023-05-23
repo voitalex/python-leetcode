@@ -44,6 +44,7 @@
 |        [0142](https://leetcode.com/problems/linked-list-cycle-ii)        | Linked List Cycle II               | Medium    |            |
 |    [0203](https://leetcode.com/problems/remove-linked-list-elements)     | Remove Linked List Elements        | Easy      |            |
 |        [0206](https://leetcode.com/problems/reverse-linked-list)         | Reverse Linked List                | Easy      |            |
+|        [0876](https://leetcode.com/problems/reverse-linked-list)         | Middle of the Linked List          | Easy      |            |
 
 
 #### Math
