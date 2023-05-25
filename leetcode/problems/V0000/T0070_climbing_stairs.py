@@ -23,9 +23,22 @@ Constraints:
   * 1 <= n <= 45
 """
 
-
 class Solution:
     """ Climbing Stairs """
 
     def climbStairs(self, n: int) -> int:
         """ Решение задачи """
+
+        # Для достижения N-ой ступени возможны два варианта:
+        #  * подняться на одну ступень с N-1 ступени
+        #  * подняться на две ступени с N-2 ступени
+        #
+        # Соответственно, f(n) = f(n-1) + f(n-2)
+
+        prev = curr = 1
+        for _ in range(n - 1):
+            curr, prev = curr + prev, curr
+
+        return curr
+
+print(Solution().climbStairs(3))

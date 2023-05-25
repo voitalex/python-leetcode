@@ -56,6 +56,7 @@
 |   [0013](https://leetcode.com/problems/roman-to-integer)    | Roman to Integer      | Easy      |            |
 |       [0066](https://leetcode.com/problems/plus-one)        | Plus One              | Easy      |            |
 |         [0069](https://leetcode.com/problems/sqrtx)         | Sqrt(x)               | Easy      |            |
+|    [0070](https://leetcode.com/problems/climbing-stairs)    | Climbing Stairs       | Easy      |            |
 |   [0461](https://leetcode.com/problems/hamming-distance)    | Hamming Distance      | Easy      |            |
 |   [0476](https://leetcode.com/problems/number-complement)   | Number Complement     | Easy      |            |
 | [0728](https://leetcode.com/problems/self-dividing-numbers) | Self Dividing Numbers | Easy      |            |
