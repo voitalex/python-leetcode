@@ -34,7 +34,7 @@
 |                                  Номер                                   | Название                           | Сложность | Примечание |
 |:------------------------------------------------------------------------:|------------------------------------|-----------|------------|
 |          [0002](https://leetcode.com/problems/add-two-numbers)           | Add Two Numbers                    | Medium    |            |
-|  [0019](https://leetcode.com/problems/remove-nth-node-from-end-of-list)  | Remove Nth Node From End of List   | Medium    | Не сделано |
+|  [0019](https://leetcode.com/problems/remove-nth-node-from-end-of-list)  | Remove Nth Node From End of List   | Medium    |            |
 |          [0021](https://leetcode.com/problems/add-two-numbers)           | Merge Two Sorted Lists             | Medium    |            |
 |        [0023](https://leetcode.com/problems/merge-k-sorted-lists)        | Merge K Sorted Lists               | Hard      | Не сделано |
 |        [0024](https://leetcode.com/problems/swap-nodes-in-pairs)         | Swap Nodes in Pairs                | Medium    | Не сделано |

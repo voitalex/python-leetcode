@@ -20,13 +20,19 @@ Constraints:
   * 0 <= Node.val <= 100
   * 1 <= n <= sz
 """
+
 from typing import Optional
 
 
 class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
+    """ Элемент списка """
+
+    def __init__(self, val: int = 0, next: Optional['ListNode'] = None):
+        self.val: int = val
         self.next = next
+
+    def __str__(self) -> str:
+        return str(self.val)
 
 
 class Solution:
@@ -34,3 +40,23 @@ class Solution:
 
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
         """ Решение задачи """
+
+        # Воспользуемся двумя итераторами:
+        #  - первый итератор передвинем на N шагов вперед
+        #  - второй итератор оставим на месте
+        # Далее, как только первый итератор достигнет хвоста списка, второй укажет на удаляемый элемент
+
+        dummy_head = ListNode(0, head)
+
+        first = dummy_head.next
+        for _ in range(n):
+            first = first.next
+
+        second = dummy_head
+        while first is not None:
+            second = second.next
+            first = first.next
+
+        second.next = second.next.next
+
+        return dummy_head.next
