@@ -2,11 +2,12 @@
 Список решенных задач по темам
 
 #### Array
-|                              Номер                              | Название                  | Сложность | Примечание |
-|:---------------------------------------------------------------:|---------------------------|-----------|------------|
-|    [0088](https://leetcode.com/problems/merge-sorted-array)     | Merge Sorted Array        | Easy      |            |
-|   [0905](https://leetcode.com/problems/sort-array-by-parity)    | Sort Array By Parity      | Easy      |            |
-| [0977](https://leetcode.com/problems/squares-of-a-sorted-array) | Squares of a Sorted Array | Easy      | O(n)       |
+|                                   Номер                                   | Название                           | Сложность | Примечание |
+|:-------------------------------------------------------------------------:|------------------------------------|-----------|------------|
+|         [0088](https://leetcode.com/problems/merge-sorted-array)          | Merge Sorted Array                 | Easy      |            |
+|        [0905](https://leetcode.com/problems/sort-array-by-parity)         | Sort Array By Parity               | Easy      |            |
+|      [0977](https://leetcode.com/problems/squares-of-a-sorted-array)      | Squares of a Sorted Array          | Easy      | O(n)       |
+| [01313](https://leetcode.com/problems/decompress-run-length-encoded-list) | Decompress Run-Length Encoded List | Easy      | O(n)       |
 
 
 #### Binary Search
