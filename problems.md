@@ -18,9 +18,10 @@
 
 
 #### Binary Tree
-|                               Номер                               | Название                    | Сложность | Примечание |
-|:-----------------------------------------------------------------:|-----------------------------|-----------|------------|
-| [0098](https://leetcode.com/problems/validate-binary-search-tree) | Validate Binary Search Tree | Medium    |            |
+|                               Номер                                | Название                     | Сложность | Примечание |
+|:------------------------------------------------------------------:|------------------------------|-----------|------------|
+| [0098](https://leetcode.com/problems/validate-binary-search-tree)  | Validate Binary Search Tree  | Medium    |            |
+| [0104](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Maximum Depth of Binary Tree | Easy      |            |
 
 
 #### Bit Manipulation
