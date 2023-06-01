@@ -17,6 +17,12 @@
 |    [0035](https://leetcode.com/problems/search-insert-position)    | Insert Position | Easy      |            |
 
 
+#### Binary Tree
+|                               Номер                               | Название                    | Сложность | Примечание |
+|:-----------------------------------------------------------------:|-----------------------------|-----------|------------|
+| [0098](https://leetcode.com/problems/validate-binary-search-tree) | Validate Binary Search Tree | Medium    |            |
+
+
 #### Bit Manipulation
 |                         Номер                          | Название         | Сложность | Примечание |
 |:------------------------------------------------------:|------------------|-----------|------------|
