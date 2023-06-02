@@ -35,6 +35,7 @@ class ListNode:
     def __str__(self) -> str:
         return str(self.val)
 
+
 class Solution:
     """ Remove Linked List Elements """
 
