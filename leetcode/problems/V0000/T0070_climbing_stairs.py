@@ -40,5 +40,3 @@ class Solution:
             curr, prev = curr + prev, curr
 
         return curr
-
-print(Solution().climbStairs(3))
