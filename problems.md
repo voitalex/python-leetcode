@@ -82,10 +82,11 @@
 
 
 #### Stack
-|                          Номер                          | Название          | Сложность | Примечание |
-|:-------------------------------------------------------:|-------------------|-----------|------------|
-| [0020](https://leetcode.com/problems/valid-parentheses) | Valid Parentheses | Easy      |            |
-|     [0155](https://leetcode.com/problems/min-stack)     | Min Stack         | Medium    |            |
+|                                 Номер                                  | Название                         | Сложность | Примечание |
+|:----------------------------------------------------------------------:|----------------------------------|-----------|------------|
+|        [0020](https://leetcode.com/problems/valid-parentheses)         | Valid Parentheses                | Easy      |            |
+| [0150](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Evaluate Reverse Polish Notation | Medium    |            |
+|            [0155](https://leetcode.com/problems/min-stack)             | Min Stack                        | Medium    |            |
 
 
 #### String
