@@ -107,3 +107,8 @@
 |              [1108](https://leetcode.com/problems/defanging-an-ip-address)               | Defanging an IP Address                            | Easy      |            |
 
 
+#### Two pointers
+
+|                   Номер                    | Название | Сложность | Примечание |
+|:------------------------------------------:|----------|-----------|------------|
+| [0015](https://leetcode.com/problems/3sum) | 3Sum     | Medium    |            |
