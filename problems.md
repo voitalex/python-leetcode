@@ -20,6 +20,7 @@
 #### Binary Tree
 |                                Номер                                 | Название                       | Сложность | Примечание |
 |:--------------------------------------------------------------------:|--------------------------------|-----------|------------|
+| [0094](https://leetcode.com/problems/binary-tree-inorder-traversal)  | Binary Tree Inorder Traversal  | Easy      |            |
 |  [0098](https://leetcode.com/problems/validate-binary-search-tree)   | Validate Binary Search Tree    | Medium    |            |
 |  [0104](https://leetcode.com/problems/maximum-depth-of-binary-tree)  | Maximum Depth of Binary Tree   | Easy      |            |
 |  [0111](https://leetcode.com/problems/minimum-depth-of-binary-tree)  | Minimum Depth of Binary Tree   | Easy      |            |
