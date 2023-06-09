@@ -18,15 +18,16 @@
 
 
 #### Binary Tree
-|                                  Номер                                   | Название                           | Сложность | Примечание |
-|:------------------------------------------------------------------------:|------------------------------------|-----------|------------|
-|   [0094](https://leetcode.com/problems/binary-tree-inorder-traversal)    | Binary Tree Inorder Traversal      | Easy      |            |
-|    [0098](https://leetcode.com/problems/validate-binary-search-tree)     | Validate Binary Search Tree        | Medium    |            |
-|    [0104](https://leetcode.com/problems/maximum-depth-of-binary-tree)    | Maximum Depth of Binary Tree       | Easy      |            |
-|        [0110](https://leetcode.com/problems/balanced-binary-tree)        | Balanced Binary Tree               | Easy      |            |
-|    [0111](https://leetcode.com/problems/minimum-depth-of-binary-tree)    | Minimum Depth of Binary Tree       | Easy      |            |
-| [0114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | Flatten Binary Tree to Linked List | Medium    |            |
-|   [0144](https://leetcode.com/problems/binary-tree-preorder-traversal)   | Binary Tree Preorder Traversal     | Easy      |            |
+|                                      Номер                                       | Название                                   | Сложность | Примечание |
+|:--------------------------------------------------------------------------------:|--------------------------------------------|-----------|------------|
+|       [0094](https://leetcode.com/problems/binary-tree-inorder-traversal)        | Binary Tree Inorder Traversal              | Easy      |            |
+|        [0098](https://leetcode.com/problems/validate-binary-search-tree)         | Validate Binary Search Tree                | Medium    |            |
+|        [0104](https://leetcode.com/problems/maximum-depth-of-binary-tree)        | Maximum Depth of Binary Tree               | Easy      |            |
+| [0108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Convert Sorted Array to Binary Search Tree | Easy      |            |
+|            [0110](https://leetcode.com/problems/balanced-binary-tree)            | Balanced Binary Tree                       | Easy      |            |
+|        [0111](https://leetcode.com/problems/minimum-depth-of-binary-tree)        | Minimum Depth of Binary Tree               | Easy      |            |
+|     [0114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)     | Flatten Binary Tree to Linked List         | Medium    |            |
+|       [0144](https://leetcode.com/problems/binary-tree-preorder-traversal)       | Binary Tree Preorder Traversal             | Easy      |            |
 
 
 #### Bit Manipulation
