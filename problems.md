@@ -62,6 +62,7 @@
 |  [0160](https://leetcode.com/problems/intersection-of-two-linked-lists)  | Intersection of Two Linked Lists   | Easy      |
 |    [0203](https://leetcode.com/problems/remove-linked-list-elements)     | Remove Linked List Elements        | Easy      |
 |        [0206](https://leetcode.com/problems/reverse-linked-list)         | Reverse Linked List                | Easy      |
+|       [0234](https://leetcode.com/problems/palindrome-linked-list)       | Palindrome Linked List             | Easy      |
 |        [0328](https://leetcode.com/problems/odd-even-linked-list)        | Odd Even Linked List               | Medium    |
 |     [0876](https://leetcode.com/problems/middle-of-the-linked-list)      | Middle of the Linked List          | Easy      |
 
