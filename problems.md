@@ -57,6 +57,7 @@
 |            [0061](https://leetcode.com/problems/rotate-list)             | Rotate List                        | Medium    |
 | [0083](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Remove Duplicates from Sorted List | Easy      |
 |       [0092](https://leetcode.com/problems/reverse-linked-list-ii)       | Reverse Linked List II             | Medium    |
+|   [0138](https://leetcode.com/problems/copy-list-with-random-pointer)    | Copy List with Random Pointer      | Medium    |
 |         [0141](https://leetcode.com/problems/linked-list-cycle)          | Linked List Cycle                  | Easy      |
 |        [0142](https://leetcode.com/problems/linked-list-cycle-ii)        | Linked List Cycle II               | Medium    |
 |             [0148](https://leetcode.com/problems/sort-list)              | Sort List                          | Medium    |
