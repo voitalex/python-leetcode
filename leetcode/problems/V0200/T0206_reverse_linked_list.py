@@ -32,6 +32,7 @@ class ListNode:
     def __str__(self) -> str:
         return str(self.val)
 
+
 class Solution:
     """ Reverse Linked List """
 
