@@ -89,6 +89,7 @@
 #### Simulation
 |                            Номер                             | Название               | Сложность |
 |:------------------------------------------------------------:|------------------------|-----------|
+|     [0054](https://leetcode.com/problems/spiral-matrix)      | Spiral Matrix          | Medium    |
 | [0657](https://leetcode.com/problems/robot-return-to-origin) | Robot Return to Origin | Easy      |
 
 
