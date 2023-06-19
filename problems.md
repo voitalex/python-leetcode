@@ -37,6 +37,7 @@
 |:------------------------------------------------------:|------------------|-----------|
 |    [0089](https://leetcode.com/problems/gray-code)     | Gray Code        | Medium    |
 |  [0136](https://leetcode.com/problems/single-number)   | Single Number    | Easy      |
+|   [0190](https://leetcode.com/problems/reverse-bits)   | Reverse Bits     | Easy      |
 | [0191](https://leetcode.com/problems/number-of-1-bits) | Number of 1 Bits | Easy      |
 |  [0338](https://leetcode.com/problems/counting-bits)   | Counting Bits    | Easy      |
 
