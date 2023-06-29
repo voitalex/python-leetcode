@@ -1,6 +1,5 @@
 """ 0035. Search Insert Position """
 
-
 import pytest
 from leetcode.problems.V0000.T0035_search_insert_position import Solution
 
