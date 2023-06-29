@@ -1,6 +1,5 @@
 """ 0008. String to Integer """
 
-
 import pytest
 from leetcode.problems.V0000.T0008_string_to_integer import Solution
 
