@@ -10,8 +10,8 @@ from leetcode.problems.V0200.T0206_reverse_linked_list import ListNode, Solution
     [
         (None, None),
         (
-                ListNode(1, ListNode(2)),
-                ListNode(2, ListNode(1)),
+            ListNode(1, ListNode(2)),
+            ListNode(2, ListNode(1)),
         ),
         (
             ListNode(1, ListNode(2, ListNode(3, ListNode(4, ListNode(5))))),
