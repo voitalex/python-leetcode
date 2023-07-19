@@ -123,6 +123,7 @@
 |                  [0125](https://leetcode.com/problems/valid-palindrome)                  | Valid Palindrome                                   | Easy      |
 |             [0151](https://leetcode.com/problems/reverse-words-in-a-string)              | Reverse Words in a String                          | Medium    |
 |                   [0344](https://leetcode.com/problems/reverse-string)                   | Reverse String                                     | Easy      |
+|         [0387](https://leetcode.com/problems/first-unique-character-in-a-string)         | First Unique Character in a String                 | Easy      |
 |                [0389](https://leetcode.com/problems/find-the-difference)                 | Find the Difference                                | Easy      |
 |                   [0709](https://leetcode.com/problems/to-lower-case)                    | To Lower Case                                      | Easy      |
 |                 [0771](https://leetcode.com/problems/jewels-and-stones)                  | Jewels and Stones                                  | Easy      |
