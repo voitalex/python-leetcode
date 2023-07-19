@@ -82,6 +82,7 @@
 |       [0066](https://leetcode.com/problems/plus-one)        | Plus One              | Easy      |
 |         [0069](https://leetcode.com/problems/sqrtx)         | Sqrt(x)               | Easy      |
 |    [0070](https://leetcode.com/problems/climbing-stairs)    | Climbing Stairs       | Easy      |
+|    [0268](https://leetcode.com/problems/missing-number)     | Missing Number        | Easy      |
 |   [0461](https://leetcode.com/problems/hamming-distance)    | Hamming Distance      | Easy      |
 |   [0476](https://leetcode.com/problems/number-complement)   | Number Complement     | Easy      |
 |   [0509](https://leetcode.com/problems/fibonacci-number)    | Fibonacci Number      | Easy      |
@@ -122,6 +123,7 @@
 |                  [0125](https://leetcode.com/problems/valid-palindrome)                  | Valid Palindrome                                   | Easy      |
 |             [0151](https://leetcode.com/problems/reverse-words-in-a-string)              | Reverse Words in a String                          | Medium    |
 |                   [0344](https://leetcode.com/problems/reverse-string)                   | Reverse String                                     | Easy      |
+|                [0389](https://leetcode.com/problems/find-the-difference)                 | Find the Difference                                | Easy      |
 |                   [0709](https://leetcode.com/problems/to-lower-case)                    | To Lower Case                                      | Easy      |
 |                 [0771](https://leetcode.com/problems/jewels-and-stones)                  | Jewels and Stones                                  | Easy      |
 |              [1108](https://leetcode.com/problems/defanging-an-ip-address)               | Defanging an IP Address                            | Easy      |
