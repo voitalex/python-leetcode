@@ -12,9 +12,10 @@
 
 
 #### Binary Search
-|                               Номер                                | Название        | Сложность |
-|:------------------------------------------------------------------:|-----------------|-----------|
-|    [0035](https://leetcode.com/problems/search-insert-position)    | Insert Position | Easy      |
+|                               Номер                                | Название                     | Сложность |
+|:------------------------------------------------------------------:|------------------------------|-----------|
+|    [0035](https://leetcode.com/problems/search-insert-position)    | Insert Position              | Easy      |
+| [0374](https://leetcode.com/problems/guess-number-higher-or-lower) | Guess Number Higher or Lower | Easy      |
 
 
 #### Binary Tree
